@@ -1,0 +1,48 @@
+title{
+  text-shadow: 5px 3px yellow;
+}
+body {
+  text-align: center;
+  font-family: monospace;
+  background:url(./20210902_173940.jpg)  no-repeat center center;
+  background-size:cover;
+}
+h1{
+  width: 500px;
+  color:blue
+}
+h2{
+  text-align: left;
+  width: 400px;
+  color:red
+}
+h3{
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+  color:red
+}
+p{
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+  font-size:20px;
+  color:yellow
+}
+p1{
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+  font-size:20px;
+  color:yellow
+}
+  img {
+    border-left: left;
+  border: 3px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 400px;
+}
